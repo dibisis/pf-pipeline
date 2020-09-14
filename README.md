@@ -1,5 +1,5 @@
 # pf-pipeline
-Portpolio for pipeline
+Portfolio for pipeline
 
 ## CI
 Jenkins
